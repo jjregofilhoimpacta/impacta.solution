@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: white;
+    }
+
+.box{
+    width: 350px;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-20%);
+    background: steelblue;
+    text-align: center;
+    border-radius: 30px;
+    }
+
+.text-box {
+    width: 350px;
+    padding: 40px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-top: 100px;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    transform: translate(-50%,-80%);
+    }
+
+.a01 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.a02 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.a03 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.a04 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.a05 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.a06 {
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid white ;
+    padding: 14px 50px;
+    width: 200px;
+    outline: none;
+    color: black;
+    transition: 1.0s;
+    text-decoration: none;
+    border-radius: 20px;
+}
